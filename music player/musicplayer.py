@@ -1,3 +1,6 @@
+#pip install pygame
+#pip install pillow 
+#install above libraries for creating an music player
 import os
 import pygame
 import tkinter as tk
